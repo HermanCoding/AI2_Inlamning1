@@ -55,7 +55,7 @@ Ha med länkar av de källor du använt dig av för att lösa uppgiften.
 4. [ ] Variera olika parametrar och diskutera deras effekt på noggrannheten. (Experimentering.)
 5. [ ] Diskutera även själva noggrannheten och beskriv valet av utvärdering av modellerna.
 6. [ ] Presentationen är tydligt uppdelad i sektioner med relevanta titlar.
-7. [ ] Grafter har en titel och x- och y-axel kommentarer så att det är lätt att förstå vad den föreställer.
+7. [x] Grafter har en titel och x- och y-axel kommentarer så att det är lätt att förstå vad den föreställer.
 
 ### För väl godkänt (VG) på projektarbetet skall dessutom följande krav uppfyllas:
 1. [ ] Undersökning, experimentering och jämförelse av minst fyra modeller.
