@@ -51,13 +51,13 @@ Ha med länkar av de källor du använt dig av för att lösa uppgiften.
 ### För godkänt (G) på projektarbetet skall följande krav uppfyllas:
 1. [x] Adekvat undersökning av data med kommentarer.
 2. [x] Förklaring av vad för typ av AI är bäst lämpad för denna data.
-3. [ ] Undersökning och jämförelse av minst två fungerande modeller.
-4. [ ] Variera olika parametrar och diskutera deras effekt på noggrannheten. (Experimentering.)
-5. [ ] Diskutera även själva noggrannheten och beskriv valet av utvärdering av modellerna.
-6. [ ] Presentationen är tydligt uppdelad i sektioner med relevanta titlar.
+3. [x] Undersökning och jämförelse av minst två fungerande modeller.
+4. [x] Variera olika parametrar och diskutera deras effekt på noggrannheten. (Experimentering.)
+5. [x] Diskutera även själva noggrannheten och beskriv valet av utvärdering av modellerna.
+6. [x] Presentationen är tydligt uppdelad i sektioner med relevanta titlar.
 7. [x] Grafter har en titel och x- och y-axel kommentarer så att det är lätt att förstå vad den föreställer.
 
 ### För väl godkänt (VG) på projektarbetet skall dessutom följande krav uppfyllas:
-1. [ ] Undersökning, experimentering och jämförelse av minst fyra modeller.
-2. [ ] Presentera bästa möjliga modell och argumentera varför den är bäst.
-3. [ ] Förklara även vad resultaten innebär så att en icke teknisk åhörare förstår.
+1. [x] Undersökning, experimentering och jämförelse av minst fyra modeller.
+2. [x] Presentera bästa möjliga modell och argumentera varför den är bäst.
+3. [x] Förklara även vad resultaten innebär så att en icke teknisk åhörare förstår.
