@@ -1,6 +1,7 @@
 # AI2_Inlamning1
 
-Assignment in data analysis for NBI/Handelsakademin.
+#### Assignment in data analysis for NBI/Handelsakademin.
+
 The assignment included EDA and Predictions for fictive company 'Telco' to analys customer churn.
 
 Grade: **VG**<br />
